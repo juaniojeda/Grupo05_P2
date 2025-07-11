@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BlockAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: BlockAssets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e3d03c09b9350ef49b6f2400cf3a0a7c
+  m_SerializeEntries:
+  - m_GUID: d443ed5098dc63e49b3f485f2b581a88
+    m_Address: Assets/Prefabs/Brick.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b7e0dfd47e4f3349a8f94b1e2617f7e
+    m_Address: Assets/create/Material/AtlasMaterialBrick.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97a3e90ec49fb4640824086eac477c12
+    m_Address: Assets/Art/OBJ/Pelota_Objeto.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eca3688e7ef35545a3b44962af432c8
+    m_Address: Assets/create/Material/AtlasMaTMine 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f348e1ec30f10048aa8382b42529431
+    m_Address: Assets/Prefabs/Paleta.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 336ea76a39b9f9047ab5c19d207b1bbc
+    m_Address: Assets/Prefabs/PowerUp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0466cafdef35814284472eca0f87904
+    m_Address: Assets/create/Material/AtlasMaterialBrick 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1aa4185cbd469d54b95fd3459b347088, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aceb7d3a34021924da9d29dd4c704265, type: 2}
+    - {fileID: 11400000, guid: dceef56b9e1d74548985d99f69bec49a, type: 2}

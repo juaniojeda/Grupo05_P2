@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 619b4bb7f2c5c354eb243e9b78829693
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 75817d863d562f84d942b0fee5a56e2b
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/VictoryScreen.unity
+    guid: beaf460e4a3df1f4cb16e8fc3eecddb0
+  - enabled: 1
+    path: Assets/Scenes/GameOverScreen.unity
+    guid: e60df8871f8ce0947af8ecbfbf2215b5
+  - enabled: 1
+    path: Assets/Scenes/SoundMenu.unity
+    guid: 07b2d9c9cdadef644ade0d9c51860c5e
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 9345b5e4b2060ac488cdfab362cb9339,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0

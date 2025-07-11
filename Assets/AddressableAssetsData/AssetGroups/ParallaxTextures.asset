@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ParallaxTextures
+  m_EditorClassIdentifier: 
+  m_GroupName: ParallaxTextures
+  m_GUID: e93dcfd22b240f74783a4e624e2bbfae
+  m_SerializeEntries:
+  - m_GUID: 7af4dc5491635f240b07a0dad90fffa4
+    m_Address: Assets/Art/UI/Nube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83739d91a0af5704e837349ab783fe77
+    m_Address: Assets/Art/UI/Luna.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a71de7c37de472e4186b9a885c42818e
+    m_Address: Assets/Art/UI/Cilo de noche.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b21fbbcdd842cbf4790407a3472634dd
+    m_Address: Assets/Art/UI/Nube (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1aa4185cbd469d54b95fd3459b347088, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a2485f6249f344941937a22efb878a74, type: 2}
+    - {fileID: 11400000, guid: e9fd46e5b0a0d984bb4ff689692abe07, type: 2}

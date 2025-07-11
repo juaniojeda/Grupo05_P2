@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dcf40421f3bcbec4d9fa5472a52f7d9d
+  m_SerializeEntries:
+  - m_GUID: ae89778cfa1504542b9fbcd979133068
+    m_Address: Assets/Art/UI/Luna.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c780a342c8db24b9ca179adb341ea94c
+    m_Address: Assets/Scripts/ScriptableObjects/BrickGeneratorConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a212f2e70e2b45f438fe71e09310b261
+    m_Address: Assets/Prefabs/LevelsPrefabs/Nivel0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1aa4185cbd469d54b95fd3459b347088, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8b675520e837f0e4ca0e8a8854399976, type: 2}
+    - {fileID: 11400000, guid: 76e859fd10995f94e8d3d0e491e26b3c, type: 2}
